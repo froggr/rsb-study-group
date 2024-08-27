@@ -6,7 +6,7 @@ lang: en-us
 copyright: "&#x2117; &amp; &#xA9; 1926"
 logo: /assets/img/logo.png
 # baseurl: "" # the subpath of your site, e.g. /blog
-# url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://froggr.github.io/rsb-study-group" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
