@@ -7,7 +7,9 @@ copyright: "&#x2117; &amp; &#xA9; 1926"
 logo: /assets/img/logo.png
 baseurl: "/rsb-study-group" # the subpath of your site, e.g. /blog
 url: "https://froggr.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-
+collections:
+  episodes:
+    output: true
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
