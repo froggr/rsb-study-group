@@ -3,7 +3,7 @@ ame: Deploy Jekyll site to GitHub Pages
 on:
   push:
     branches:
-      - main
+      - master
 
 jobs:
   build:
