@@ -1,9 +1,8 @@
 ---
-title:        "test episode!"
-date:         2024-08-08 08:08:08 +0800
+title:        "Seven Steps to Receive"
+subtitle:     "Kenn Hagi"
 keywords:
-- tag1
-- tag2
+- course1
 mp3-url:      "/assets/audio/mixed_0001_Contents_1_Seven_Steps_To_Receiving_the_Holy_Spirit_2_Ten_Re.mp3"
 episode-type: full # or "trailer"
 explicit:     "no"

@@ -1,11 +1,11 @@
 ---
-title:        "This is my first episode!"
-date:         2022-08-08 08:08:08 +0800
+title:        "Introducing Your Amazing Podcast"
+subtitle:     "Optional subtitle here"
 keywords:
 - tag1
 - tag2
-mp3-url:      "/assets/audio/ep1.mp3"
-episode-type: full # or "trailer"
+mp3-url:      "/assets/audio/intro.mp3"
+episode-type: trailer # or "full"
 explicit:     "no"
 block:        "no" # no means it is published
 layout: podcast
