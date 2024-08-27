@@ -37,7 +37,7 @@ layout: null
         </itunes:category>
         <itunes:type>episodic</itunes:type>
         <itunes:explicit>no</itunes:explicit>
-        {% for post in site.posts %}
+        {% for post in site.episodes %}
             <item>
                 <title>{{ post.title | xml_escape }}</title>
                 <itunes:title>{{ post.title | xml_escape }}</itunes:title>
