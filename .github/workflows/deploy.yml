@@ -29,7 +29,7 @@ jobs:
       run: bundle exec jekyll build --baseurl "${{ steps.pages.outputs.base_path }}"
       env:
         JEKYLL_ENV: production
-        PAGES_REPO_NWO: https://froggr.github.io/rsb-study-group/
+        PAGES_REPO_NWO: froggr.github.io/rsb-study-group/
 
     - name: Upload artifact
       uses: actions/upload-pages-artifact@v3
