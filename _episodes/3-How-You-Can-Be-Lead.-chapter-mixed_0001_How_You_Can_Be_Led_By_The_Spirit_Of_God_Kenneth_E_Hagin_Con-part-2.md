@@ -3,7 +3,7 @@ title:        "Ep. 3 - How You Can Be Lead - Chapter mixed_0001_How_You_Can_Be_L
 subtitle:     "How You Can Be Lead"
 keywords:
 - course1
-mp3-url:      "/audiobooks/audio/ep3-part_001.mp3"
+mp3-url:      "/assets/audio/ep3-part_001.mp3"
 episode-type: full # or "trailer"
 episode: 3
 explicit:     "no"
