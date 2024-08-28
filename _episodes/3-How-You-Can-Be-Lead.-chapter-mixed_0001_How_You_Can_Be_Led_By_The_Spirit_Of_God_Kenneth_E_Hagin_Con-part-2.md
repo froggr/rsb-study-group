@@ -5,6 +5,7 @@ keywords:
 - course1
 mp3-url:      "/audiobooks/audio/ep3-part_001.mp3"
 episode-type: full # or "trailer"
+episode: 3
 explicit:     "no"
 block:        "no" # no means it is published
 layout: podcast

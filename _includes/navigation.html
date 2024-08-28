@@ -1,5 +1,6 @@
 <table>
-  {% for post in site.episodes %}
+  {% assign sorted_episodes = site.episodes | sort: 'episode' %}
+  {% for post in sorted_episodes %}
   <tr>
 <!-- TODO: Add a thumbnail
     <td>

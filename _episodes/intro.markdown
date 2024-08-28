@@ -6,6 +6,7 @@ keywords:
 - tag2
 mp3-url:      "/assets/audio/intro.mp3"
 episode-type: trailer # or "full"
+episode: 0
 explicit:     "no"
 block:        "no" # no means it is published
 layout: podcast

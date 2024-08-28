@@ -5,6 +5,7 @@ keywords:
 - course1
 mp3-url:      "/assets/audio/mixed_0001_Contents_1_Seven_Steps_To_Receiving_the_Holy_Spirit_2_Ten_Re.mp3"
 episode-type: full # or "trailer"
+episode: 1
 explicit:     "no"
 block:        "no" # no means it is published
 layout: podcast
