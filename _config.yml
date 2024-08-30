@@ -16,3 +16,4 @@ collections:
 exclude:
   - Gemfile
   - Gemfile.lock
+  - update_episodes.sh

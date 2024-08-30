@@ -6,6 +6,7 @@ keywords:
 mp3-url:      "/assets/audio/ep3-part_001.mp3"
 episode-type: full # or "trailer"
 episode: 3
+date: 1995-01-07
 explicit:     "no"
 block:        "no" # no means it is published
 layout: podcast

@@ -5,6 +5,7 @@ keywords:
 - course1
 mp3-url:      "/assets/audio/ep42-Spirit-Himslorf.mp3"
 episode: 42
+date: 1995-03-26
 episode-type: full # or "trailer"
 explicit:     "no"
 block:        "no" # no means it is published

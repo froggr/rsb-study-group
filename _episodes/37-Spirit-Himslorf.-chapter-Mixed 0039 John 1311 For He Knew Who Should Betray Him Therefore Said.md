@@ -5,6 +5,7 @@ keywords:
 - course1
 mp3-url:      "/assets/audio/ep37-Spirit-Himslorf.mp3"
 episode: 37
+date: 1995-03-16
 episode-type: full # or "trailer"
 explicit:     "no"
 block:        "no" # no means it is published
