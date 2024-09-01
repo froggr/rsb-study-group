@@ -4,9 +4,9 @@ subtitle:     "The Spirit"
 keywords:
 - course1
 mp3-url: "/assets/audio/ep20-The-Spirit.mp3"
-episode: "20"
+episode: 20
 episode-type: full # or "trailer"
-date: "1995-02-10"
+date: 1995-02-10
 explicit:     "no"
 block:        "no" # no means it is published
 layout: podcast
