@@ -13,6 +13,14 @@ jobs:
     - name: Checkout repository
       uses: actions/checkout@v3
 
+    - name: Install Git LFS
+      run: |
+        sudo apt-get install git-lfs
+        git lfs install
+
+    - name: Pull LFS files
+      run: git lfs pull
+      
     - name: Setup Ruby
       uses: ruby/setup-ruby@v1
       with:
