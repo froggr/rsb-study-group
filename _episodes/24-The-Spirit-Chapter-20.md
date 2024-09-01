@@ -1,12 +1,12 @@
 ---
-title: "Ep. 21 - The Spirit - Chapter Mixed 0010 Chapter Ix Baptism In The Holy Spirit Symbols That Descri"
+title: "Ep. 24 - The Spirit - Chapter 20"
 subtitle:     "The Spirit"
 keywords:
 - course1
-mp3-url: "/assets/audio/ep21-The-Spirit.mp3"
-episode: 21
+mp3-url: "/assets/audio/ep24-The-Spirit.mp3"
+episode: 24
 episode-type: full # or "trailer"
-date: 1995-02-12
+date: 1995-02-18
 explicit:     "no"
 block:        "no" # no means it is published
 layout: podcast

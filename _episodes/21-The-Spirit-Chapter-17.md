@@ -1,12 +1,12 @@
 ---
-title: "Ep. 30 - The Spirit - Chapter Mixed 0018 Chapiter Xvii Discernment Of Spirits Recognizing Spir"
+title: "Ep. 21 - The Spirit - Chapter 17"
 subtitle:     "The Spirit"
 keywords:
 - course1
-mp3-url: "/assets/audio/ep30-The-Spirit.mp3"
-episode: 30
+mp3-url: "/assets/audio/ep21-The-Spirit.mp3"
+episode: 21
 episode-type: full # or "trailer"
-date: 1995-03-02
+date: 1995-02-12
 explicit:     "no"
 block:        "no" # no means it is published
 layout: podcast

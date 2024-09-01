@@ -1,12 +1,12 @@
 ---
-title: "Ep. 8 - The Spirit - Chapter Mixed 0023 Chapter Xxii Tongues And The Interpretation Of Tongues"
+title: "Ep. 18 - The Spirit - Chapter 14"
 subtitle:     "The Spirit"
 keywords:
 - course1
-mp3-url: "/assets/audio/ep8-The-Spirit.mp3"
-episode: 8
+mp3-url: "/assets/audio/ep18-The-Spirit.mp3"
+episode: 18
 episode-type: full # or "trailer"
-date: 1995-01-17
+date: 1995-02-06
 explicit:     "no"
 block:        "no" # no means it is published
 layout: podcast

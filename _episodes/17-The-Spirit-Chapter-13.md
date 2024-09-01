@@ -1,12 +1,12 @@
 ---
-title: "Ep. 29 - The Spirit - Chapter Mixed 0002 Chapter One The Person Of The Holy Spirit Biblical P"
+title: "Ep. 17 - The Spirit - Chapter 13"
 subtitle:     "The Spirit"
 keywords:
 - course1
-mp3-url: "/assets/audio/ep29-The-Spirit.mp3"
-episode: 29
+mp3-url: "/assets/audio/ep17-The-Spirit.mp3"
+episode: 17
 episode-type: full # or "trailer"
-date: 1995-02-28
+date: 1995-02-04
 explicit:     "no"
 block:        "no" # no means it is published
 layout: podcast

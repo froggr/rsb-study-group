@@ -1,12 +1,12 @@
 ---
-title: "Ep. 28 - The Spirit - Chapter Mixed 0017 Chapter Xvi The Word Of Wisdom Gods Wisdom Wisdom Bui"
+title: "Ep. 25 - The Spirit - Chapter 21"
 subtitle:     "The Spirit"
 keywords:
 - course1
-mp3-url: "/assets/audio/ep28-The-Spirit.mp3"
-episode: 28
+mp3-url: "/assets/audio/ep25-The-Spirit.mp3"
+episode: 25
 episode-type: full # or "trailer"
-date: 1995-02-26
+date: 1995-02-20
 explicit:     "no"
 block:        "no" # no means it is published
 layout: podcast

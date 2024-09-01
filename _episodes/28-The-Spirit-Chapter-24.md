@@ -1,12 +1,12 @@
 ---
-title: "Ep. 20 - The Spirit - Chapter Mixed 0009 Chapter Eight The Baptism In The Holy Spirit What It Is A"
+title: "Ep. 28 - The Spirit - Chapter 24"
 subtitle:     "The Spirit"
 keywords:
 - course1
-mp3-url: "/assets/audio/ep20-The-Spirit.mp3"
-episode: 20
+mp3-url: "/assets/audio/ep28-The-Spirit.mp3"
+episode: 28
 episode-type: full # or "trailer"
-date: 1995-02-10
+date: 1995-02-26
 explicit:     "no"
 block:        "no" # no means it is published
 layout: podcast

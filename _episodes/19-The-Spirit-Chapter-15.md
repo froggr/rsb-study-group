@@ -1,12 +1,12 @@
 ---
-title: "Ep. 14 - The Spirit - Chapter Mixed 0003 Chapter Ii The Names Of The Holy Spirit Now We Move On"
+title: "Ep. 19 - The Spirit - Chapter 15"
 subtitle:     "The Spirit"
 keywords:
 - course1
-mp3-url: "/assets/audio/ep14-The-Spirit.mp3"
-episode: 14
+mp3-url: "/assets/audio/ep19-The-Spirit.mp3"
+episode: 19
 episode-type: full # or "trailer"
-date: 1995-01-29
+date: 1995-02-08
 explicit:     "no"
 block:        "no" # no means it is published
 layout: podcast

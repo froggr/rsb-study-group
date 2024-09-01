@@ -1,12 +1,12 @@
 ---
-title: "Ep. 25 - The Spirit - Chapter Mixed 0014 Chapter Thirteen The Baptism In The Holy Spirit How To Re"
+title: "Ep. 4 - The Spirit - Introduction"
 subtitle:     "The Spirit"
 keywords:
 - course1
-mp3-url: "/assets/audio/ep25-The-Spirit.mp3"
-episode: 25
+mp3-url: "/assets/audio/ep4-The-Spirit.mp3"
+episode: 4
 episode-type: full # or "trailer"
-date: 1995-02-20
+date: 1995-01-09
 explicit:     "no"
 block:        "no" # no means it is published
 layout: podcast

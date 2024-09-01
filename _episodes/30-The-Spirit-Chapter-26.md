@@ -1,12 +1,12 @@
 ---
-title: "Ep. 6 - The Spirit - Chapter Mixed 0021 Chapter Xx Miracle Works Stephen Was A Man Filled With"
+title: "Ep. 30 - The Spirit - Chapter 26"
 subtitle:     "The Spirit"
 keywords:
 - course1
-mp3-url: "/assets/audio/ep6-The-Spirit.mp3"
-episode: 6
+mp3-url: "/assets/audio/ep30-The-Spirit.mp3"
+episode: 30
 episode-type: full # or "trailer"
-date: 1995-01-13
+date: 1995-03-02
 explicit:     "no"
 block:        "no" # no means it is published
 layout: podcast

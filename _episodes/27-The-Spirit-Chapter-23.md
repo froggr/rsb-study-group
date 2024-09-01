@@ -1,12 +1,12 @@
 ---
-title: "Ep. 19 - The Spirit - Chapter Mixed 0008 Chapter Vii The Baptism In The Holy Spirit Different From C"
+title: "Ep. 27 - The Spirit - Chapter 23"
 subtitle:     "The Spirit"
 keywords:
 - course1
-mp3-url: "/assets/audio/ep19-The-Spirit.mp3"
-episode: 19
+mp3-url: "/assets/audio/ep27-The-Spirit.mp3"
+episode: 27
 episode-type: full # or "trailer"
-date: 1995-02-08
+date: 1995-02-24
 explicit:     "no"
 block:        "no" # no means it is published
 layout: podcast

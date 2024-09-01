@@ -1,12 +1,12 @@
 ---
-title: "Ep. 17 - The Spirit - Chapter Mixed 0006 Chapter V The Holy Spirit In The Time Of Christ At Th"
+title: "Ep. 12 - The Spirit - Chapter 8"
 subtitle:     "The Spirit"
 keywords:
 - course1
-mp3-url: "/assets/audio/ep17-The-Spirit.mp3"
-episode: 17
+mp3-url: "/assets/audio/ep12-The-Spirit.mp3"
+episode: 12
 episode-type: full # or "trailer"
-date: 1995-02-04
+date: 1995-01-25
 explicit:     "no"
 block:        "no" # no means it is published
 layout: podcast

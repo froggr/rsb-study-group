@@ -1,12 +1,12 @@
 ---
-title: "Ep. 15 - The Spirit - Chapter Mixed 0004 Chapter Iii The Seven Spirits Of God There Is One Spi"
+title: "Ep. 29 - The Spirit - Chapter 25"
 subtitle:     "The Spirit"
 keywords:
 - course1
-mp3-url: "/assets/audio/ep15-The-Spirit.mp3"
-episode: 15
+mp3-url: "/assets/audio/ep29-The-Spirit.mp3"
+episode: 29
 episode-type: full # or "trailer"
-date: 1995-01-31
+date: 1995-02-28
 explicit:     "no"
 block:        "no" # no means it is published
 layout: podcast

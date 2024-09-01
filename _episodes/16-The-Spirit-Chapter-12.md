@@ -1,5 +1,5 @@
 ---
-title: "Ep. 16 - The Spirit - Chapter Mixed 0005 Chapter Iv The Holy Spirit In The Old Testament The H"
+title: "Ep. 16 - The Spirit - Chapter 12"
 subtitle:     "The Spirit"
 keywords:
 - course1

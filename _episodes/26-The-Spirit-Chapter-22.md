@@ -1,12 +1,12 @@
 ---
-title: "Ep. 13 - The Spirit - Chapter Mixed 0007 Chapter Six The Holy Spirit In Conversion The Holy Sp"
+title: "Ep. 26 - The Spirit - Chapter 22"
 subtitle:     "The Spirit"
 keywords:
 - course1
-mp3-url: "/assets/audio/ep13-The-Spirit.mp3"
-episode: 13
+mp3-url: "/assets/audio/ep26-The-Spirit.mp3"
+episode: 26
 episode-type: full # or "trailer"
-date: 1995-01-27
+date: 1995-02-22
 explicit:     "no"
 block:        "no" # no means it is published
 layout: podcast

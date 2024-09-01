@@ -1,12 +1,12 @@
 ---
-title: "Ep. 11 - The Spirit - Chapter Mixed 0026 Chapter Xxv The Holy Spirit In The Future Formation Of"
+title: "Ep. 13 - The Spirit - Chapter 9"
 subtitle:     "The Spirit"
 keywords:
 - course1
-mp3-url: "/assets/audio/ep11-The-Spirit.mp3"
-episode: 11
+mp3-url: "/assets/audio/ep13-The-Spirit.mp3"
+episode: 13
 episode-type: full # or "trailer"
-date: 1995-01-23
+date: 1995-01-27
 explicit:     "no"
 block:        "no" # no means it is published
 layout: podcast

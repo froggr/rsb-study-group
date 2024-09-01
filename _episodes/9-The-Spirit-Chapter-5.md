@@ -1,5 +1,5 @@
 ---
-title: "Ep. 9 - The Spirit - Chapter Mixed 0024 Chapter Xxiii The Holy Spirit In The Church General"
+title: "Ep. 9 - The Spirit - Chapter 5"
 subtitle:     "The Spirit"
 keywords:
 - course1

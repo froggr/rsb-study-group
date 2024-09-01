@@ -1,5 +1,5 @@
 ---
-title: "Ep. 23 - The Spirit - Chapter Mixed 0012 Chapter Eleven The Baptism Of The Holy Spirit The First P"
+title: "Ep. 23 - The Spirit - Chapter 19"
 subtitle:     "The Spirit"
 keywords:
 - course1

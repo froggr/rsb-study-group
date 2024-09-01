@@ -1,12 +1,12 @@
 ---
-title: "Ep. 12 - The Spirit - Chapter Mixed 0027 The Spirit Himself"
+title: "Ep. 10 - The Spirit - Chapter 6"
 subtitle:     "The Spirit"
 keywords:
 - course1
-mp3-url: "/assets/audio/ep12-The-Spirit.mp3"
-episode: 12
+mp3-url: "/assets/audio/ep10-The-Spirit.mp3"
+episode: 10
 episode-type: full # or "trailer"
-date: 1995-01-25
+date: 1995-01-21
 explicit:     "no"
 block:        "no" # no means it is published
 layout: podcast
